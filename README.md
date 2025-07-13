@@ -1,3 +1,3 @@
-Hello. I'm beginning a career in data analysis.
-I would be very interested in collaborating on any projects.
-I'm interested in weather, boats, and snowboarding.
+Hello.
+I am a senior programmer analyst, interested in data engineering. I build cloud-based pipelines using Python, AWS, OCI, and Power BI.
+Based in the Pacific Northwest.
